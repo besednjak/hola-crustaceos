@@ -1,0 +1,1 @@
+/home/besednjak/Desktop/Facultad/Organizacion\ del\ Computador/Rust/Hola\ Mundo/hola-crustaceos/hola-mundo-crustaceos/target/debug/hola-mundo-crustaceos: /home/besednjak/Desktop/Facultad/Organizacion\ del\ Computador/Rust/Hola\ Mundo/hola-crustaceos/hola-mundo-crustaceos/src/main.rs
